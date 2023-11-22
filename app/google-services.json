@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363830325978",
+    "project_id": "rascalriches",
+    "storage_bucket": "rascalriches.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363830325978:android:3ffe585786f824130aebe3",
+        "android_client_info": {
+          "package_name": "rr.won.rascalriches"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfzBQA9P2GtzTtMjIGvkkflMGBaIyOR28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
